@@ -1,5 +1,6 @@
-const newCollection = [];
-export{ newCollection }
-import Books from "./class.js";
+import Books from './class.js';
+
+// const newCollection = [];
+// export { newCollection };
 const booksCollection = new Books();
-export {booksCollection}
+export default booksCollection;

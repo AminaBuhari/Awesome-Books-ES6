@@ -5,8 +5,6 @@ const form = window.document.getElementById('form');
 const navItems = window.document.querySelectorAll('.nav-item');
 const sectionBooks = window.document.querySelectorAll('.sect');
 
-
-export {books}
-export {formTitle, formAuthor, form}
-export {navItems,sectionBooks}
-
+export { books };
+export { formTitle, formAuthor, form };
+export { navItems, sectionBooks };
