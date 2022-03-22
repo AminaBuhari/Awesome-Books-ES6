@@ -1,5 +1,7 @@
 # Awesome-Books-ES6
 
+This project is done to help understand Javascript and ES6 Modules.
+
 ## Built With
 
 - HTML
