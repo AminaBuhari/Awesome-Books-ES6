@@ -1,8 +1,6 @@
 // Add book
 import add from './module/addbook.js';
-// Add Nav Display
 import navDisplay from './module/navigation.js';
-// Add date
 import { DateTime } from './node_modules/luxon/src/luxon.js';
 
 add();
