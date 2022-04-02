@@ -9,6 +9,10 @@ This project is done to help understand Javascript and ES6 Modules.
 - JavaScript
 - ES6 Modules
 
+## Screenshot
+
+![awesome books](https://user-images.githubusercontent.com/66526480/161381578-3c51b46a-9ec4-4a72-aef0-8fbfae7a9d43.PNG)
+
 ## Live Demo
 
 For a live demo of the Portfolio [click here]().
