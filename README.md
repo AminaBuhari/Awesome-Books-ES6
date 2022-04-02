@@ -15,7 +15,7 @@ This project is done to help understand Javascript and ES6 Modules.
 
 ## Live Demo
 
-For a live demo of the Portfolio [click here]().
+For a live demo of the Portfolio [click here](https://aminabuhari.github.io/Awesome-Books-ES6/).
 
 ## Author
 
